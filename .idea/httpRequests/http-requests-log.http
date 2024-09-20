@@ -1,3 +1,57 @@
+POST https://66eb019a55ad32cda47b4cc5.mockapi.io/IoTCarStatus
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1ec099e6-70e0-494b-a169-1758c1dc40a8,
+  "price": 443,
+  "ts": 1726792858,
+  "value": "content"
+}
+
+<> 2024-09-19T184059.400.html
+
+###
+
+POST https://66eb019a55ad32cda47b4cc5.mockapi.io/IoTCarStatus
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 3e6401bb-d176-405f-a6ce-f2117acac037,
+  "price": 217,
+  "ts": 1726792833,
+  "value": "content"
+}
+
+<> 2024-09-19T184034.400.html
+
+###
+
+POST https://66eb019a55ad32cda47b4cc5.mockapi.io/IoTCarStatus
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": eb0a0823-d5c4-4580-bf32-9f4eeb21e86c,
+  "price": 632,
+  "ts": 1726792731,
+  "value": "content"
+}
+
+<> 2024-09-19T183852.400.html
+
+###
+
 GET https://66eb019a55ad32cda47b4cc5.mockapi.io/IoTCarStatus
 Accept: application/json
 User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
